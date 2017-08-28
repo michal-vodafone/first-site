@@ -1,0 +1,41 @@
+h1 {
+	color: yellow;
+	font-size: 60px;
+}
+
+ul li {
+	border: solid;
+}
+
+#prvni {
+	color: red;
+}
+
+.prvni-trida {
+	font-style: italic;
+}
+
+.tucna-trida {
+	font-weight: bold;
+	color: darkgray;
+}
+
+th.tucna-trida {
+	font-size: 30px;
+}
+
+html {
+	font-family: verdana;
+	background-color: lightgray;
+	text-align: center;
+	width: 800px;
+}
+
+.oramovane {
+	border: dashed;
+}
+
+.highlight {
+	color: pink;
+	font-weight: bold;
+}
